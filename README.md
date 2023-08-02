@@ -31,7 +31,6 @@ To run the portfolio website locally, follow these steps:
 - HTML
 - CSS
 - JavaScript
-- [Add any other technologies or frameworks you used]
 
 ## How to Use
 The website is designed to be intuitive and user-friendly. Here's a quick guide on how to navigate and use the website:
