@@ -3,10 +3,10 @@
 Welcome to my personal portfolio website! This repository contains the code and assets for my online portfolio where you can learn more about me, my skills, view my projects, and get in touch with me. This README file provides an overview of the website and instructions on how to set it up locally or deploy it.
 
 ## Introduction
-As a [your profession or specialization], I wanted to have a professional online presence to showcase my skills, projects, and contact information. This website serves as a centralized platform where visitors can learn more about me, view my work, and connect with me for potential collaboration or job opportunities.
+As a Flutter Developer, I wanted to have a professional online presence to showcase my skills, projects, and contact information. This website serves as a centralized platform where visitors can learn more about me, view my work, and connect with me for potential collaboration or job opportunities.
 
 ## Features
-1. **About Me**: This section provides a brief introduction to who I am, my background, and my passion for [mention your primary interests or field].
+1. **About Me**: This section provides a brief introduction to who I am, my background, and my passion for Flutter Development.
 2. **My Projects**: This section displays a collection of my completed projects, along with descriptions, links, and any relevant technologies used.
 3. **My Skills**: Here, you can find an overview of my technical skills and areas of expertise, along with proficiency levels.
 4. **Contact**: This section offers various ways for visitors to get in touch with me, such as through email, social media links, or a contact form.
